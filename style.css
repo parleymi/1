@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(230, 232, 234);
+    font-family:'Courier New', Courier, monospace;
+}
+h1{
+    margin: 0;
+    text-align: center;
+    padding: 2em 0em;
+    text-transform: uppercase;
+    width: 100%;
+    color: rgb(97, 24, 24);
+    background-color: rgb(28, 30, 31);
+    font-size: 3rem;
+}
+section{
+    font-size: 2rem;
+    margin: 1em 2em;
+    padding: 3em;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(28, 30, 31);
+    color: aliceblue;
+    border: 0.5em rgb(236, 246, 246);
+    border-radius: 1em;
+}
+.foto{
+    width: 20em;
+    height: 20em;
+    border-radius: 1em;
+}
